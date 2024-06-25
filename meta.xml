@@ -1,0 +1,5 @@
+<meta>
+<script src="webhookS.lua"/>
+
+<export function="sendDiscordMessage" type="shared" />
+</meta>
